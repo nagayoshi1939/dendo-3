@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ナガヨシ チラシ</title>
+</head>
+<body>
+  <h1>ナガヨシ チラシ</h1>
+  <iframe src="assist_bike2.pdf" width="100%" height="800" style="border:none;"></iframe>
+</body>
+</html>
